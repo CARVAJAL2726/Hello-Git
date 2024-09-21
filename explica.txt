@@ -1,0 +1,11 @@
+1.crear un archibo 
+        cd      nombre del archivo donde lo quiere poner
+        ls      para saber que archivos hay 
+        mkdir   para crear el archivo 
+        cd "nombre del archivo"      ingresar al archivo 
+        code .       para habrirlo en el visual
+        git config --global user.name "CARVAJAL2726"   establecer la configuracion a nivel global 
+        git init       carpeta oculta ya se puede trabajar con todas las herramientas que proporciona git inicializar 
+        \Desktop\PROGRAMACIÓN\Hello Git>
+
+2.     git checkout hellogit2.py           para actualizar
